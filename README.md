@@ -1,5 +1,13 @@
 # Provably Fair Decentralized Lottery
 
+## 👤 Author
+
+**Mohd Shariq**
+
+- GitHub: [@Shariq103](https://github.com/Shariq103)
+
+##
+
 This is a **Provably Fair Smart Contract Lottery** built using **Solidity** and **Foundry**. It leverages **Chainlink VRF** for verifiable randomness and **Chainlink Automation** for time-based triggers, ensuring a completely decentralized and automated gaming experience.
 
 ## Key Features
@@ -65,4 +73,5 @@ This project includes both Unit and Integration tests to ensure reliability.
 ```bash
 forge test
 ```
+
 # foundry-Lottery-Raffle
